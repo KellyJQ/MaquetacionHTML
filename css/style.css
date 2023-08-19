@@ -1,0 +1,20 @@
+h2 {
+    padding-top: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+body {
+    background-color: rgb(12, 84, 133);
+}
+p {
+    padding-top: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 60px;
+    border: double;
+
+
+}
+h1 {
+    background-color: rgb(121, 166, 226);
+    border: solid 5px blue;
+}
